@@ -7,4 +7,4 @@ tags: ["blog","story"]
 ---
 
 # Hi!
-this is a test post
+This is a test post.
